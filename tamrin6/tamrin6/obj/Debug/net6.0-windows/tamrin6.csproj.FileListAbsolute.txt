@@ -1,0 +1,17 @@
+C:\Users\surface go\source\repos\tamrin6\tamrin6\bin\Debug\net6.0-windows\tamrin6.exe
+C:\Users\surface go\source\repos\tamrin6\tamrin6\bin\Debug\net6.0-windows\tamrin6.deps.json
+C:\Users\surface go\source\repos\tamrin6\tamrin6\bin\Debug\net6.0-windows\tamrin6.runtimeconfig.json
+C:\Users\surface go\source\repos\tamrin6\tamrin6\bin\Debug\net6.0-windows\tamrin6.dll
+C:\Users\surface go\source\repos\tamrin6\tamrin6\bin\Debug\net6.0-windows\ref\tamrin6.dll
+C:\Users\surface go\source\repos\tamrin6\tamrin6\bin\Debug\net6.0-windows\tamrin6.pdb
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\tamrin6.csproj.AssemblyReference.cache
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\tamrin6.Form1.resources
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\tamrin6.csproj.GenerateResource.cache
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\tamrin6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\tamrin6.AssemblyInfoInputs.cache
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\tamrin6.AssemblyInfo.cs
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\tamrin6.csproj.CoreCompileInputs.cache
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\tamrin6.dll
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\ref\tamrin6.dll
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\tamrin6.pdb
+C:\Users\surface go\source\repos\tamrin6\tamrin6\obj\Debug\net6.0-windows\tamrin6.genruntimeconfig.cache
